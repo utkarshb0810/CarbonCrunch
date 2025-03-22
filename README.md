@@ -33,7 +33,7 @@ Carbon Crunch is a sustainability-focused web application designed to help users
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/utkarshb0810/Carbon-Crunch
+   git clone https://github.com/utkarshb0810/CarbonCrunch.git
    ```
 2. Navigate to the project directory:
    ```sh
